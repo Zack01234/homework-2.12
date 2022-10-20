@@ -1,4 +1,4 @@
-package com.example.homework2_12;
+package com.example.homework2_12.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
